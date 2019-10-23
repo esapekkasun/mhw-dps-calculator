@@ -1,5 +1,5 @@
 Name,Type,Sharpness,Handicraft Sharpness,Damage,Elemental Damage,Raw Type,Elemental Type,Affinity
-Daora's Entom,Insect Glaive,Blue,Blue,527,150,Cut,Ice,10
+Daora's Entom,Insect Glaive,Blue,White,527,150,Cut,Ice,10
 Daora's Tethidine,Insect Glaive,Blue,White,558,180,Cut,Ice,10
 Temptation's Trident,Insect Glaive,Blue,White,465,0,Cut,None,20
 Vice,Insect Glaive,White,White,496,0,Cut,None,20
@@ -11,3 +11,4 @@ Flammenkaefer+,Insect Glaive,Blue,Blue,558,240,Cut,Fire,-20
 Gnashing Flammenkaefer,Insect Glaive,Blue,Blue,651,270,Cut,Fire,-20
 Tyrannis Glaive I,Insect Glaive,Blue,Blue,682,0,Cut,None,-30
 Tyrannis Glaive II,Insect Glaive,Blue,White,716,0,Cut,None,-30
+Ya-Ku Wrath III,Insect Glaive,Blue,White,527,0,Cut,None,20
